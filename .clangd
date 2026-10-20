@@ -1,0 +1,8 @@
+CompileFlags:
+  # Headers are opened independently by editors; force their parser to use the
+  # same language level as the CMake targets.
+  Add: [-std=c++20]
+  CompilationDatabase: build
+
+Diagnostics:
+  UnusedIncludes: Strict

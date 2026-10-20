@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/opt/homebrew/opt/openssl@3/lib -L/opt/homebrew/opt/zlib/lib -L/opt/homebrew/opt/readline/lib CMakeFiles/hft_tests.dir/tests/hft_tests.cpp.o -o hft_tests  libhft_core.a

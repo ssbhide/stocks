@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/hft_core.dir/exchange/exchange.cpp.o -c /Users/sarangbhide/stocks/exchange/exchange.cpp",
+  "file": "/Users/sarangbhide/stocks/exchange/exchange.cpp",
+  "output": "CMakeFiles/hft_core.dir/exchange/exchange.cpp.o"
+},
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/hft_core.dir/exchange/order_book.cpp.o -c /Users/sarangbhide/stocks/exchange/order_book.cpp",
+  "file": "/Users/sarangbhide/stocks/exchange/order_book.cpp",
+  "output": "CMakeFiles/hft_core.dir/exchange/order_book.cpp.o"
+},
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/hft_core.dir/market_data/local_book.cpp.o -c /Users/sarangbhide/stocks/market_data/local_book.cpp",
+  "file": "/Users/sarangbhide/stocks/market_data/local_book.cpp",
+  "output": "CMakeFiles/hft_core.dir/market_data/local_book.cpp.o"
+},
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/hft_core.dir/networking/market_data_codec.cpp.o -c /Users/sarangbhide/stocks/networking/market_data_codec.cpp",
+  "file": "/Users/sarangbhide/stocks/networking/market_data_codec.cpp",
+  "output": "CMakeFiles/hft_core.dir/networking/market_data_codec.cpp.o"
+},
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/hft_core.dir/networking/udp_multicast.cpp.o -c /Users/sarangbhide/stocks/networking/udp_multicast.cpp",
+  "file": "/Users/sarangbhide/stocks/networking/udp_multicast.cpp",
+  "output": "CMakeFiles/hft_core.dir/networking/udp_multicast.cpp.o"
+},
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/hft_core.dir/risk/risk_manager.cpp.o -c /Users/sarangbhide/stocks/risk/risk_manager.cpp",
+  "file": "/Users/sarangbhide/stocks/risk/risk_manager.cpp",
+  "output": "CMakeFiles/hft_core.dir/risk/risk_manager.cpp.o"
+},
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/hft_core.dir/risk/volatility.cpp.o -c /Users/sarangbhide/stocks/risk/volatility.cpp",
+  "file": "/Users/sarangbhide/stocks/risk/volatility.cpp",
+  "output": "CMakeFiles/hft_core.dir/risk/volatility.cpp.o"
+},
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/hft_core.dir/trader/market_maker.cpp.o -c /Users/sarangbhide/stocks/trader/market_maker.cpp",
+  "file": "/Users/sarangbhide/stocks/trader/market_maker.cpp",
+  "output": "CMakeFiles/hft_core.dir/trader/market_maker.cpp.o"
+},
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/hft_core.dir/trader/trading_engine.cpp.o -c /Users/sarangbhide/stocks/trader/trading_engine.cpp",
+  "file": "/Users/sarangbhide/stocks/trader/trading_engine.cpp",
+  "output": "CMakeFiles/hft_core.dir/trader/trading_engine.cpp.o"
+},
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -o CMakeFiles/hft_demo.dir/simulation/main.cpp.o -c /Users/sarangbhide/stocks/simulation/main.cpp",
+  "file": "/Users/sarangbhide/stocks/simulation/main.cpp",
+  "output": "CMakeFiles/hft_demo.dir/simulation/main.cpp.o"
+},
+{
+  "directory": "/Users/sarangbhide/stocks/build",
+  "command": "/usr/bin/c++  -I/Users/sarangbhide/stocks/. -g -std=c++20 -arch arm64 -o CMakeFiles/hft_tests.dir/tests/hft_tests.cpp.o -c /Users/sarangbhide/stocks/tests/hft_tests.cpp",
+  "file": "/Users/sarangbhide/stocks/tests/hft_tests.cpp",
+  "output": "CMakeFiles/hft_tests.dir/tests/hft_tests.cpp.o"
+}
+]

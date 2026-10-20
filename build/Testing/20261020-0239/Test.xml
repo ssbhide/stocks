@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20261020-0239-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.4.0"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="Mac-4461.wowway.com"
+	OSRelease="26.6.1"
+	OSVersion="25G76"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ModelName="Apple M2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="3072"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0.000000"
+	>
+	<Testing>
+		<StartDateTime>Oct 19 22:39 EDT</StartDateTime>
+		<StartTestTime>1792463949</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 19 22:39 EDT</EndDateTime>
+		<EndTestTime>1792463949</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

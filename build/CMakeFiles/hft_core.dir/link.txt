@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhft_core.a CMakeFiles/hft_core.dir/exchange/exchange.cpp.o CMakeFiles/hft_core.dir/exchange/order_book.cpp.o CMakeFiles/hft_core.dir/market_data/local_book.cpp.o CMakeFiles/hft_core.dir/networking/market_data_codec.cpp.o CMakeFiles/hft_core.dir/networking/udp_multicast.cpp.o CMakeFiles/hft_core.dir/risk/risk_manager.cpp.o CMakeFiles/hft_core.dir/risk/volatility.cpp.o CMakeFiles/hft_core.dir/trader/market_maker.cpp.o CMakeFiles/hft_core.dir/trader/trading_engine.cpp.o
+/usr/bin/ranlib libhft_core.a

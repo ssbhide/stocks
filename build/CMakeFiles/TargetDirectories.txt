@@ -1,0 +1,6 @@
+/Users/sarangbhide/stocks/build/CMakeFiles/hft_core.dir
+/Users/sarangbhide/stocks/build/CMakeFiles/hft_demo.dir
+/Users/sarangbhide/stocks/build/CMakeFiles/hft_tests.dir
+/Users/sarangbhide/stocks/build/CMakeFiles/test.dir
+/Users/sarangbhide/stocks/build/CMakeFiles/edit_cache.dir
+/Users/sarangbhide/stocks/build/CMakeFiles/rebuild_cache.dir

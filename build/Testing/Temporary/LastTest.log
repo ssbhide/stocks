@@ -1,0 +1,19 @@
+Start testing: Sep 21 18:58 EDT
+----------------------------------------------------------
+1/1 Testing: hft_tests
+1/1 Test: hft_tests
+Command: "/Users/sarangbhide/stocks/build/hft_tests"
+Directory: /Users/sarangbhide/stocks/build
+"hft_tests" start time: Sep 21 18:58 EDT
+Output:
+----------------------------------------------------------
+All HFT lifecycle tests passed.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"hft_tests" end time: Sep 21 18:58 EDT
+"hft_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 21 18:58 EDT
